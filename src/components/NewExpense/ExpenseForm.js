@@ -82,6 +82,7 @@ function ExpenseForm(props) {
                 </div>
             </div>
             <div className='new-expense__action'>
+                <button onClick={props.onCloseEdit}>Close</button>
                 <button type='submit'>Add Expense</button>
             </div>
         </form>
