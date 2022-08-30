@@ -1,0 +1,8 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.requireConfig": false,
+    "prettier.requirePragma": false,
+    "workbench.settings.editor": "ui",
+    "workbench.settings.openDefaultSettings": true,
+    "workbench.settings.useSplitJSON": true
+}
